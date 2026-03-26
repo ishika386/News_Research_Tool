@@ -8,3 +8,4 @@ libmagic
 python-magic
 python-magic-bin
 OpenAI
+langchain-openai
